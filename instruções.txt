@@ -1,0 +1,5 @@
+Passo a Passo para trabalhar com o versionamento de código
+- git init
+- git config --global user.name "Thiago Henrique Silva"
+- git config --global user.email "thiago.henrique20081006@gmail.com"
+- git status
